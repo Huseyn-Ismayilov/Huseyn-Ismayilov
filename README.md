@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Huseyn-Ismayilov
-- 👀 I’m interested in e-sports
-- 🌱 I’m currently learning react
-- 📫 How to reach me - i.huseynn0@gmail.com
+# 💫 About Me:
+Hi 👋, I'm Huseyn.<br>- 🔭 I’m currently working on programming<br>- 🌱 I’m currently learning MongoDB & Node.js
 
-<!---
-Huseyn-Ismayilov/Huseyn-Ismayilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
